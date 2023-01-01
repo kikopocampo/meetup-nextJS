@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "chalk": "^5.2.0",
     "mongodb": "^4.13.0",
     "next": "^12.3.4",
     "react": "^18.2.0",
